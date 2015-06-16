@@ -1,0 +1,48 @@
+.outer{ 
+ background-image:url('bg-img.jpg');
+ height:100%;
+ background-repeat: no-repeat;
+ background-cover: cover;
+}
+
+  .inner {
+  height: 400px;
+  width: 500px;
+  padding: 0 3em;
+  float: left;
+  background-color: rgba(245, 222, 179, 0.65);
+  display: inline-block;
+  margin: 7em;
+
+}
+
+.heading {
+	font-family: 'Muli', sans-serif;
+	color: black;
+	font-size: 50px;
+
+}
+.show {
+	font-family: 'Muli', sans-serif;
+	color: gold;
+	font-size: 50px;
+
+}
+.discover {
+	font-family: 'Muli', sans-serif;
+	display:inline;
+	color: black;
+    font-size: 30px;
+}
+
+.button {
+  padding:10px;
+  background-color:gold;
+  border: none;
+  color:#000;
+  text-decoration:none;
+  text-align: center;
+  margin: 0 auto;
+  display: block;
+}
+}
